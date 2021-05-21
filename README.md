@@ -106,7 +106,7 @@ LEVEL 3
   • GET : Get all comment for a comment (Request URL :- http://127.0.0.1:5000/post_comment)
 
 
-  ![picture](display_comment_on_comment.PNG)
+  ![picture](display_comment_on_a_comment.PNG)
   
 
 • Exception Handling : Done in the program itself.
